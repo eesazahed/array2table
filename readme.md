@@ -1,3 +1,5 @@
+# arrayToTable ([View Live](https://eesazahed.github.io/arrayToTable/))
+
 To use this in ES6 vanilla Javascript, use the following code:
 
 ```
