@@ -1,8 +1,11 @@
 To use this in ES6 vanilla Javascript, use the following code:
 
-`import arrayToTable from "https://cdn.jsdelivr.net/gh/EesaZahed/arrayToTable@main/arrayToTable.min.js";`
+```
+import arrayToTable from "https://cdn.jsdelivr.net/gh/EesaZahed/arrayToTable@main/arrayToTable.min.js";
 
-`arrayToTable(element, array, true, 10);`
+arrayToTable(element, array, true, 10);
+
+```
 
 The `arrayToTable` function takes the parameters
 
