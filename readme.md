@@ -19,4 +19,4 @@ You can view a live example [here](https://eesazahed.github.io/arrayToTable/).
 
 <br />
 
-Code: https://cdn.jsdelivr.net/gh/EesaZahed/arrayToTable@main/arrayToTable.min.js
+Code: https://cdn.jsdelivr.net/gh/EesaZahed/arrayToTable@main/array2table.min.js
