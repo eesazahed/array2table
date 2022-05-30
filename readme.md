@@ -14,3 +14,5 @@ The `arrayToTable` function takes the parameters
 - Array to map in the `<table>` element. (array)
 - Whether the table should be styled. (boolean)
 - Font size of the `<table>` element. (number)
+
+You can view a live example [here](https://eesazahed.github.io/arrayToTable/).
