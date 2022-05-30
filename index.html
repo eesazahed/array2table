@@ -6,18 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Countries</title>
   </head>
-  <div id="i"></div>
+  <div id="element"></div>
   <body>
     <script type="module">
-      import arrayToTable from "https://cdn.jsdelivr.net/gh/EesaZahed/arrayToTable@main/array2table.min.js";
+      import array2table from "https://cdn.jsdelivr.net/gh/EesaZahed/array2table@main/array2table.js";
 
-      const i = document.getElementById("i");
+      const element = document.getElementById("element");
 
       fetch("./countries.json")
         .then((res) => res.json())
-        .then((data) => {
-          arrayToTable(i, data, true, 16);
-        });
+        .then((data) => array2table(element, data, true, 16));
     </script>
   </body>
 </html>
