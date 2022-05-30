@@ -25,10 +25,10 @@ ${array
                 (selectorName) =>
                   `<td class="table-cell">
                         ${
-                          item[selectorName] !== (undefined || null)
-                            ? typeof item[selectorName] == "object"
-                              ? JSON.stringify(item[selectorName])
-                              : item[selectorName]
+                          typeof item[selectorName] == "object"
+                            ? JSON.stringify(item[selectorName])
+                            : item[selectorName] != null
+                            ? item[selectorName]
                             : ""
                         }
                         </td>`
