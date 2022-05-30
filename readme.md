@@ -16,4 +16,7 @@ The `arrayToTable` function takes the parameters
 - Font size of the `<table>` element. (number)
 
 You can view a live example [here](https://eesazahed.github.io/arrayToTable/).
+
+<br />
+
 Code: https://cdn.jsdelivr.net/gh/EesaZahed/arrayToTable@main/arrayToTable.min.js
