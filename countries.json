@@ -1,0 +1,15 @@
+[
+  { "id": 0, "name": "Canada", "capital": "Ottawa", "population": 38300000 },
+  {
+    "id": 1,
+    "name": "United States of America",
+    "capital": "Washington D.C.",
+    "population": 334000000
+  },
+  {
+    "id": 2,
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "population": 127000000
+  }
+]
