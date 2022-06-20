@@ -1,5 +1,8 @@
 # array2table ([View Live](https://eesazahed.github.io/array2table/))
 
+
+This is an open-source project. Feel free to use and edit.
+
 To use this in ES6 vanilla Javascript, use the following code:
 
 ```
